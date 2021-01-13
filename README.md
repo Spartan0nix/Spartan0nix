@@ -23,6 +23,4 @@ Windows 7 ,8.1 ,10 ,Server 2016
 UNIX : Ubuntu, Debian, Kali
 
 ----------------------------------------------------------------------------------------------------------------------
-- I’m currently working on a network/administration project using Windows Server 2016 and powershell (probably)
 
-... Coming soon :wink: ...
