@@ -7,20 +7,7 @@ Hi, I'm a French developer currently learning network administration and web dev
 
 - ## Languages :
 
-### Web development : 
-HTML5/CSS, SCSS, Javascript, Vue.js, PHP, node.js (REST API using express, JWT), PostgreSQL
-
-### Scripting : 
-Bash, PowerShell
-
-### Others : 
-Python, Java, C# (a little)
-
-- ## Operating Sytem :
-
-Windows 7 ,8.1 ,10 ,Server 2016
-
-UNIX : Ubuntu, Debian, Kali
+HTML5/CSS, Javascript, Vue.js, PHP, Symfony, node.js (REST API using express, JWT), PostgreSQL
 
 ----------------------------------------------------------------------------------------------------------------------
 
