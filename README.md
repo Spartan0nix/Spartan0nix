@@ -3,11 +3,28 @@
 -->
 
 - ## About me : 
-Hi, I'm a French developer currently learning network administration and web development.
+Hi, I'm a French sys / network admin currently working on different automation and CLI project.
 
-- ## Languages :
+- ## Stack :
 
-HTML5/CSS, Javascript, Vue.js, PHP, Symfony, node.js (REST API using express, JWT), PostgreSQL
+  - Bash / sh
+  - Go
+  - Python
 
+- Web
+  - HTML5/CSS
+  - Javascript
+  - Vue.js
+  - PHP (+ Symfony)
+  - node.js
+
+- Database
+  - PostgreSQL
+
+- CI / CD
+  - Github Actions
+
+- Configuration management
+  - Ansible
 ----------------------------------------------------------------------------------------------------------------------
 
